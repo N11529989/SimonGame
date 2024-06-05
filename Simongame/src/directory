@@ -1,0 +1,4 @@
+SimonGame/
+├── src/
+│   └── main.cpp
+└── platformio.ini
